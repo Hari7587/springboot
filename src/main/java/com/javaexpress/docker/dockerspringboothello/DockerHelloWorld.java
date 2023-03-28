@@ -11,6 +11,6 @@ public class DockerHelloWorld {
 	@GetMapping
 	public String getName() {
 		
-		return "Welcome to the training with BitstreamIO using Git Maven Docker Jenkins..!";
+		return "Welcome to the training with BitstreamIO using Git Maven Docker and Jenkins..!";
 	}
 }
