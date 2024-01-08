@@ -11,6 +11,6 @@ public class DockerHelloWorld {
 	@GetMapping
 	public String getName() {
 		
-		return "Welcome to the training using Git Maven Docker and Jenkins.!";
+		return "Welcome to the training session using Git Maven Docker and Jenkins..!";
 	}
 }
